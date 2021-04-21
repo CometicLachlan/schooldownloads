@@ -1,0 +1,9 @@
+Instructions
+
+Listed below are the instructions to download and install items from this github page.
+
+INSTALLING STREAM DECK SOFTWARE:
+
+1. UNZIP UNIEXTRACT2
+2. Go into the UniExtract2 RC3 folder, then the UniExtract2 Folder. Then just launch the app UniExtract 2
+3. Download the Stream Deck installer from this github page
